@@ -1,3 +1,3 @@
-# Project2
+# WorkoutCollector - Android Workout APP
 
-See Blackboard for details
+
